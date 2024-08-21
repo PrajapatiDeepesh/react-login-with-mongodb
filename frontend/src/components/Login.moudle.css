@@ -1,0 +1,13 @@
+.container {
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .loginForm {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background: white;
+  }
+  
